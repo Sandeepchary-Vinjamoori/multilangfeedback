@@ -1,0 +1,8 @@
+streamlit>=1.35.0
+pandas>=2.0.0
+transformers>=4.40.0
+matplotlib>=3.8.0
+pydeck>=0.8.1b0
+pyrebase4>=4.7.1
+torch>=2.3.0
+torchvision>=0.18.0
